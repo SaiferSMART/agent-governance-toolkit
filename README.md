@@ -361,3 +361,32 @@ trademarks or logos is subject to and must follow
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
 
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10..
+- **Статус:** не знаю (работает / пауза / заморожено ❄️ / брошено — эксплуатация не проверена).
+- **Где работает:** не знаю (сервер, ПК, сайт или облако не подтверждены).
+- **Как запустить / открыть:** [репозиторий GitHub](https://github.com/SaiferSMART/agent-governance-toolkit); рабочий адрес/команда — не знаю.
+- **Связанные открытые PR:** нет.
+- **Связанные открытые Issue:** нет.
+- **Последнее изменение:** 2026-05-11T22:39:22Z (`d93e32c526ef`, последний коммит по API).
+- **Кто ведёт:** не знаю (владелец GitHub: `SaiferSMART`).
+- **Вопрос к владелице:** подтвердить эксплуатационный статус, место работы, точку входа и ответственного.
+- **Основание:** [Issue #435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435); паспорт не является результатом проверки работающего сервиса.
+<!-- SAIFER_REPO_PASSPORT_END -->
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10..
+- **Статус:** не знаю (фактический режим работы/пауза/❄️/закрытие не проверен).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [исходный репозиторий](https://github.com/SaiferSMART/agent-governance-toolkit); рабочий адрес/команда — не знаю.
+- **Открытые PR:** нет.
+- **Открытые Issue:** нет.
+- **Последнее изменение основной ветки:** 2026-05-11T22:39:22Z, `d93e32c526ef` (GitHub commit).
+- **Кто ведёт:** не знаю; GitHub owner `SaiferSMART`.
+- **Вопрос к владелице:** уточнить статус, рабочую площадку, точку входа и ответственного.
+- **Основание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435); это паспорт репозитория, не сертификат работы приложения.
+<!-- SAIFER_REPO_PASSPORT_END -->
