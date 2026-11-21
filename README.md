@@ -375,3 +375,18 @@ Any use of third-party trademarks or logos are subject to those third-party's po
 - **Вопрос к владелице:** подтвердить эксплуатационный статус, место работы, точку входа и ответственного.
 - **Основание:** [Issue #435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435); паспорт не является результатом проверки работающего сервиса.
 <!-- SAIFER_REPO_PASSPORT_END -->
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10..
+- **Статус:** не знаю (фактический режим работы/пауза/❄️/закрытие не проверен).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [исходный репозиторий](https://github.com/SaiferSMART/agent-governance-toolkit); рабочий адрес/команда — не знаю.
+- **Открытые PR:** нет.
+- **Открытые Issue:** нет.
+- **Последнее изменение основной ветки:** 2026-05-11T22:39:22Z, `d93e32c526ef` (GitHub commit).
+- **Кто ведёт:** не знаю; GitHub owner `SaiferSMART`.
+- **Вопрос к владелице:** уточнить статус, рабочую площадку, точку входа и ответственного.
+- **Основание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435); это паспорт репозитория, не сертификат работы приложения.
+<!-- SAIFER_REPO_PASSPORT_END -->
